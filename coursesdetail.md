@@ -1,10 +1,47 @@
-**RELEVANT COURSES, WITH ECTS, EXAM EVALUATION AND DATE OF EVALUATION (WITH DETAILED TOPICS AND TEXTBOOKS USED AS REFERENCE MATERIAL)
-#MICROECONOMICS 8.0 TWENTY-NINE 05/04/23
-#MACROECONOMICS 8.0 TWENTY-EIGHT 14/03/23
-#MATHEMATICS FOR ECONOMIC ANALYSYS 8.0 THIRTY C.LAUDE 30/06/22
-#EMPIRICAL ECONOMICS 8.0 TWENTY-SIX 28/03/22
-#STATISTICAL MODELLING 8.0 TWENTY-FIVE 15/09/22
-#MONETARY ECONOMICS AND ASSET PRICING 8.0 TWENTY-EIGHT 15/12/22
-#POLICY EVALUATION 8.0 TWENTY-SIX 20/11/23
-#RESEARCH ASSISTANTSHIP 8.0 TWENTY-EIGHT 14/09/23
-#LABOR ECONOMICS 8.0 TWENTY-SIX 29/08/23
+# Relevant Courses
+
+## Microeconomics
+**ECTS:** 8.0  
+**Grade:** Twenty-Nine  
+**Date of Evaluation:** 05/04/23  
+
+## Macroeconomics
+**ECTS:** 8.0  
+**Grade:** Twenty-Eight  
+**Date of Evaluation:** 14/03/23  
+
+## Mathematics for Economic Analysis
+**ECTS:** 8.0  
+**Grade:** Thirty  
+**Evaluator:** C. Laude  
+**Date of Evaluation:** 30/06/22  
+
+## Empirical Economics
+**ECTS:** 8.0  
+**Grade:** Twenty-Six  
+**Date of Evaluation:** 28/03/22  
+
+## Statistical Modelling
+**ECTS:** 8.0  
+**Grade:** Twenty-Five  
+**Date of Evaluation:** 15/09/22  
+
+## Monetary Economics and Asset Pricing
+**ECTS:** 8.0  
+**Grade:** Twenty-Eight  
+**Date of Evaluation:** 15/12/22  
+
+## Policy Evaluation
+**ECTS:** 8.0  
+**Grade:** Twenty-Six  
+**Date of Evaluation:** 20/11/23  
+
+## Research Assistantship
+**ECTS:** 8.0  
+**Grade:** Twenty-Eight  
+**Date of Evaluation:** 14/09/23  
+
+## Labor Economics
+**ECTS:** 8.0  
+**Grade:** Twenty-Six  
+**Date of Evaluation:** 29/08/23  
